@@ -44,7 +44,3 @@ El objetivo fue transformar datos en insights accionables para apoyar decisiones
 - 🔍 [Detalle / Drill-through](https://public.tableau.com/views/RappiPlus-Detalle/DETALLE?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
-
-## Nota sobre credenciales
-
-El notebook incluye una conexión a una base de datos PostgreSQL del entorno de TripleTen. Las credenciales han sido reemplazadas por placeholders (`YOUR_PASSWORD_HERE`). Los outputs de todas las celdas están guardados y son visibles sin necesidad de re-ejecutar el código.
